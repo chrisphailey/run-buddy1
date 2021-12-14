@@ -1,4 +1,4 @@
-# run-buddy1
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with &hearts; by [Chris Hailey]
+
+### &copy;2019 Run Buddy, Inc
