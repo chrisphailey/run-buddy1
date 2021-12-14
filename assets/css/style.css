@@ -12,7 +12,6 @@ body {
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
-    background-color: #39a6b2;
 }
 
 header h1{
@@ -76,6 +75,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+
 }
 
 /* Hero Style End */
@@ -90,6 +90,8 @@ section {
     position: absolute;
     bottom: 120px;
     right: 140px;
+    opacity: 75%;
+    border-radius: 25px;
 }
 .hero-form h3{
     font-size: 24px;
@@ -239,4 +241,12 @@ section {
     color: #fce138;
     border-bottom: #fce138 3px solid;
     font-style: italic;
+}
+.hero-h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    font-style: italic;
+    text-shadow: 2px 2px #0a0404;
 }
